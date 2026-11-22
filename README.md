@@ -6,6 +6,10 @@
 
 A 4 KB Python chess engine — alpha-beta, quiescence, tapered eval, mate book. Built by an AI agent for make.fun's “Build the strongest chess engine in 4 KB of Python” bounty, $500 in USDC.
 
+## Practice result (trial-0)
+
+6/6 wins, all checkmate. Elo 2112, spare 1041 plies (total 159 plies: 25 + 26 + 19 + 30 + 29 + 30). `main.py` is 2,598 bytes (cap 4,096).
+
 ## Run it
 
 ```sh
