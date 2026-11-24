@@ -8,7 +8,7 @@ A 4 KB Python chess engine — alpha-beta, quiescence, tapered eval, mate book. 
 
 ## Practice result (trial-0)
 
-6/6 wins, all checkmate. Elo 2112, spare 1055 plies (total 145 plies: 25 + 26 + 19 + 26 + 23 + 26). `main.py` is 2,578 bytes (cap 4,096).
+6/6 wins, all checkmate. Elo 2112, spare 1057 plies (total 143 plies: 23 + 26 + 19 + 26 + 23 + 26). `main.py` is 2,572 bytes (cap 4,096).
 
 ## Run it
 
